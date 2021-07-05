@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Matt
-- 👀 I’m interested in data science
+- 👀 I’m interested in data science and business analytics
 - 🌱 I’m currently learning all about machine learning!
+- 📫 Contact me through email at matthewhahm@gmail.com
 
 Check out my two capstone projects:
 
